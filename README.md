@@ -1,6 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-
 <h1 align="center">Hi 👋, I'm Akash Verma</h1>
 
 <p align="center">
@@ -26,7 +25,7 @@
 - **Database**: MongoDB, MySQL  
 - **Data Science**: Pandas, NumPy, Matplotlib, Scikit-learn  
 - **IoT**: Raspberry Pi, ESP, Arduino
-  
+
 ---
 
 ### 🚀 Projects
@@ -50,20 +49,42 @@
 
 ### 🔗 Connect with Me
 
-<p align="left">
-  <a href="https://wa.me/91*********" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://t.me/patel@xhivam" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/iakashverma00" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/YOUR-INSTAGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="220">
+      <a href="https://linkedin.com/in/iakashverma00" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-iakashverma00-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="220">
+      <a href="https://github.com/iakashverma" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-%40iakashverma-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="220">
+      <a href="mailto:iakashverma00@gmail.com">
+        <img src="https://img.shields.io/badge/Email-iakashverma00%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="220">
+      <a href="https://wa.me/91XXXXXXXXXX" target="_blank">
+        <img src="https://img.shields.io/badge/WhatsApp-%2B91%20XXXXXXXXXX-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="220">
+      <a href="https://t.me/patel@xhivam" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-%40your__handle-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="220">
+      <a href="https://instagram.com/i.akash.verma" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-%40your__insta-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -102,7 +123,7 @@
 ### 📫 Let's Collaborate!
 
 Feel free to **connect** and **collaborate** — I love working on innovative and impactful tech projects!  
-<a href="mailto:akashverma0277@gmail.com">
+<a href="mailto:iakashverma00@gmail.com">
   <img src="https://img.shields.io/badge/Click%20to%20Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Click to connect"/>
 </a>
 
@@ -123,3 +144,8 @@ Feel free to **connect** and **collaborate** — I love working on innovative an
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iakashverma&style=flat-square&color=blue" alt="Profile views" />
 </p>
+
+<!-- FOOTER WAVE -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00aaff,100:00ffcc&height=120&section=footer&text=Let's+Build+Something+Amazing!&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=65" />
+</div>
