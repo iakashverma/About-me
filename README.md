@@ -14,8 +14,8 @@
   <a href="https://github.com/iakashverma"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
   <a href="mailto:iakashverma00@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
   <a href="https://wa.me/91XXXXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;
-  <a href="https://t.me/your_handle"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;
-  <a href="https://instagram.com/YOUR-INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://t.me/patel@xhivam"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;
+  <a href="https://instagram.com/i.akash.verma"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -119,18 +119,6 @@ Location : Jalandhar, Punjab
 
 ### 📌 Featured Projects
 
-<p align="center">
-
-  <a href="https://github.com/iakashverma/India-road-safety-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iakashverma&repo=India-road-safety-analysis&theme=tokyonight&border_color=00e5cc" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://krishi.ct.ws">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iakashverma&repo=GoKrishak&theme=tokyonight&border_color=00e5cc" />
-  </a>
-
-</p>
-
 - 🚗 [**Road Accident Analysis**](https://github.com/iakashverma/India-road-safety-analysis) — Accident data analysis using Python, Pandas & Matplotlib
 - 🌾 [**GoKrishak**](https://krishi.ct.ws) — Helping farmers access tools & insights
 
@@ -141,11 +129,6 @@ Location : Jalandhar, Punjab
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iakashverma&show_icons=true&theme=tokyonight&border_color=00e5cc&border_radius=10&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakashverma&layout=compact&theme=tokyonight&border_color=00e5cc&border_radius=10&langs_count=8" width="49%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iakashverma&theme=tokyonight&border=00e5cc&ring=00e5cc&fire=ff6b6b&currStreakLabel=00FFCC" width="70%" />
